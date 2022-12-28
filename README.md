@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Lucas Fugisawa. =)
 - 👀 Interested in Software Engineering and Development.
-- 🌱 Currently learning: Spring Framework and Spring Boot 3; Kotlin programming language.
 - 📫 Reach me at lucasfugisawa@gmail.com
