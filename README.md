@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Lucas Fugisawa. =)
-- 👀 Interested in Software Engineering, Development and Architecture.
-- 🧑‍💻 Currently focused on Kotlin and Java.
+- 👀 Interested in Software Engineering, Architecture, Kotlin and Java.
 - 🗣️ I help professional back-end developers to craft concise, expressive, effective Kotlin code, so they can engage with truly enjoyable and modern projects and teams.
 - 📫 Reach me at lucasfugisawa@gmail.com
